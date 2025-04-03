@@ -1,7 +1,7 @@
 # Project---Irrigation-system
-Automated irrigation system
+## Automated irrigation system
 
-Pictures;
+**Pictures;**
 <br/>
 ![Overview](https://github.com/user-attachments/assets/3191d860-03c6-4a6d-a32a-8a39c815d94b)
 <br/>
@@ -10,7 +10,7 @@ Pictures;
 ![plantdata](https://github.com/user-attachments/assets/41e9fec9-6fbc-407d-aebc-6d8b7673905d)
 <br/>
 
-Videos; <br/>
+**Videos;**
 <br/>
 **- https://github.com/user-attachments/assets/63a8eeed-74ac-4f1a-92b3-01bf80ed16f1**
 <br/>
