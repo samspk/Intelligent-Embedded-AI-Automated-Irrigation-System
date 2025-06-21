@@ -32,19 +32,17 @@ The web interface is developed using **FastAPI**, a high-performance Python fram
 It can also support (if needed) scaleability, load balancing, and protection against threats like **DDoS attacks** or **SQL injection** through secure configurations (e.g., **TLS/SSL**). The interface, accessible via browsers or mobile devices, provides a user-friendly dashboard for remote management, critical for scenarios requiring absence from the site.
 
 ### Functionality and Operational Workflow
-The system operates autonomously by polling soil moisture data at regular intervals and comparing it against user-defined or AI-optimized thresholds. When moisture falls below the target range, the water pump activates, delivering a calibrated amount of water to minimize waste. The AI component enhances adaptability by factoring in variables like historical moisture trends or external data (e.g., weather forecasts, if integrated via APIs). Manual overrides through the web interface allow users to adjust settings or trigger irrigation, ensuring flexibility for specific plant needs or environmental conditions.
+The system operates **autonomously** by polling soil moisture data at regular intervals and comparing it against user-defined or AI-optimized thresholds. When moisture falls below the target range, the water pump activates, delivering a calibrated amount of water to minimize waste.
+
+The system has the posibility (if required in real world cases) to use AI component that enhances adaptability by factoring in variables like historical moisture trends or external data (e.g., weather forecasts, if integrated via APIs). Manual overrides through the web interface allow users to adjust settings or trigger irrigation, ensuring flexibility for specific plant needs or environmental conditions.
 
 ### Benefits and Impact
 This prototype delivers significant advantages:  
-Water Conservation: By irrigating only when necessary, it reduces water usage compared to traditional methods, aligning with sustainability goals.  
-
-Time Efficiency: Automation eliminates manual monitoring, while remote access ensures plant care during user absence.  
-
-Precision Agriculture: AI-driven irrigation optimizes plant health by delivering the right water volume, enhancing yield and resource efficiency.  
-
-Scalability: The system’s modular design supports expansion to larger setups, such as commercial farms or greenhouse networks.  
-
-Cost-Effectiveness: Using affordable components like Raspberry Pi and open-source software lowers deployment barriers.
+* **Water Conservation**: By irrigating only when necessary, it reduces water usage compared to traditional methods, aligning with sustainability goals.
+* **Time Efficiency**: Automation eliminates manual monitoring, while remote access ensures plant care during user absence.
+* **Precision Agriculture**: AI-driven irrigation optimizes plant health by delivering the right water volume, enhancing yield and resource efficiency.  
+* **Scalability**: The system’s modular design supports expansion to larger setups, such as commercial farms or greenhouse networks.
+* **Cost-Effectiveness**: Using affordable components like Raspberry Pi and open-source software lowers deployment barriers.
 
 ### Alignment with Standards and Regulations
 Given your interest in ISO 27001, DORA, NIS2, and the EU AI Act, the system’s design can incorporate compliance considerations:  
