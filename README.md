@@ -1,6 +1,10 @@
 # Project: Intelligent Embedded IoT (Internet of Things) Systems.
-## Automated irrigation system (AI based Autonomous Solutions)
-The automated artificial intelligent (AI) based irrigation system integrates a **Raspberry Pi** single-board computer with a moisture sensor and water pump to deliver an efficient, **data-driven** solution for precision agriculture. Designed to optimize water usage and reduce manual intervention, the system monitors soil moisture levels in real-time, triggers automated irrigation when necessary, and provides **remote manual control** through a web interface. Leveraging **Python**, **FastAPI**, and **Nginx**, the prototype ensures scalability, security, and user accessibility while aligning with modern **IoT** and **AI** paradigms. This system is particularly relevant for sustainable farming, addressing water conservation and operational efficiency.
+## Automated Irrigation System (AI based Autonomous Solutions)
+The automated artificial intelligent (AI) based irrigation system integrates a **Raspberry Pi**(OS: Debian-based, Ubuntu, Kali Linux, Windows 10/11 IoT) single-board computer with a moisture sensor and water pump to deliver an efficient, **data-driven** solution for precision agriculture. Designed to optimize water usage and reduce manual intervention, the system monitors soil moisture levels in real-time, triggers automated irrigation when necessary, and provides **remote manual control** through a web interface. Leveraging **Python**, **FastAPI**, and **Nginx**(Server, Reverse Proxy, Security), the prototype ensures scalability, security, and user accessibility while aligning with modern **IoT** and **AI** paradigms. This system is particularly relevant for sustainable farming, addressing water conservation and operational efficiency.
+### System Architecture and Hardware
+The core hardware platform is a Raspberry Pi, configurable with Debian-based operating systems (e.g., Ubuntu, Kali Linux) or Windows 10/11 IoT, providing a lightweight, versatile computing environment. The moisture sensor, typically a capacitive or resistive probe, interfaces with the Raspberry Pi’s GPIO pins via **analog-to-digital conversion** to measure soil water content. A water pump, activated through a relay module, delivers precise irrigation based on sensor data or user commands. This modular setup ensures **cost-effectiveness** and **adaptability** for various agricultural contexts.
+
+
 
 
 
