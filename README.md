@@ -10,7 +10,7 @@ The automated artificial intelligent (AI) based irrigation system integrates a *
 The core hardware platform is a Raspberry Pi, configurable with Debian-based operating systems (e.g., Ubuntu, Kali Linux) or Windows 10/11 IoT, providing a lightweight, versatile computing environment. The moisture sensor, typically a capacitive or resistive probe, interfaces with the Raspberry Pi’s GPIO pins via **analog-to-digital conversion** to measure soil water content. A water pump, activated through a relay module, delivers precise irrigation based on sensor data or user commands. This modular setup ensures **cost-effectiveness** and **adaptability** for various agricultural contexts.
 <br/>
 
-### Pictures
+**Pictures**
 <br/>
 ![Overview](https://github.com/user-attachments/assets/3191d860-03c6-4a6d-a32a-8a39c815d94b)
 <br/>
