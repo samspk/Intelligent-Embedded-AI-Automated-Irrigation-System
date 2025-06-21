@@ -1,5 +1,8 @@
-# Project-Irrigation-System
-## Automated irrigation system
+# Project: Intelligent Embedded IoT (Internet of Things) Systems.
+## Automated irrigation system (AI based Autonomous Solutions)
+The automated artificial intelligent (AI) based irrigation system integrates a **Raspberry Pi** single-board computer with a moisture sensor and water pump to deliver an efficient, **data-driven** solution for precision agriculture. Designed to optimize water usage and reduce manual intervention, the system monitors soil moisture levels in real-time, triggers automated irrigation when necessary, and provides **remote manual control** through a web interface. Leveraging **Python**, **FastAPI**, and **Nginx**, the prototype ensures scalability, security, and user accessibility while aligning with modern **IoT** and **AI** paradigms. This system is particularly relevant for sustainable farming, addressing water conservation and operational efficiency.
+
+
 
 **Pictures;**
 <br/>
